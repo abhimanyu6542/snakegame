@@ -1,4 +1,6 @@
 # snakegame
+Hello My name Abhimanyu Debata and I love to play snake game thats why I am creating snake 
+game using HTM, CSS and Javascript.
 
 Classic Snake Game
 This is the classic 8-bit snake game created using HTML5. This game also includes some 8-bit music and sounds while maintaining the old classic fun. Here are some of the features of the game:
